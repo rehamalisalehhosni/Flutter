@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_design"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_sales_ord"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="166dp"
+        android:text="@string/sales_order"
+        android:textSize="@dimen/_18ssp" />
+
+    <Button
+        android:id="@+id/btn_cash"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_27sdp"
+        android:text="@string/cash"
+        android:textSize="@dimen/_18ssp" />
+
+    <Button
+        android:id="@+id/btn_invoice"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_27sdp"
+        android:text="@string/invoice"
+        android:textSize="@dimen/_18ssp" />
+
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp">
+
+
+    <Button
+        android:id="@+id/btn_cached_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:text="@string/btn_cached_data"
+        android:textSize="@dimen/_18ssp" />
+
+    <Button
+        android:id="@+id/btn_sales_ord"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_60sdp"
+        android:text="@string/sales_order"
+        android:textSize="@dimen/_18ssp" />
+
+    <Button
+        android:id="@+id/btn_cash"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_27sdp"
+        android:text="@string/cash"
+        android:textSize="@dimen/_18ssp" />
+
+    <Button
+        android:id="@+id/btn_invoice"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_27sdp"
+        android:text="@string/invoice"
+        android:textSize="@dimen/_18ssp" />
+
+</LinearLayout>

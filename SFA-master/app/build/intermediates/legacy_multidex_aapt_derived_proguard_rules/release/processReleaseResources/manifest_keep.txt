@@ -1,0 +1,2 @@
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:52
+-keep class com.bartech.sfa.sa.MvpApp { <init>(); }

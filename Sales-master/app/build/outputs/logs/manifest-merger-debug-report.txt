@@ -1,0 +1,349 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+MERGED from [io.realm:realm-android-library:3.1.4] /home/homa/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.1.4.aar/095192ce5362d423d25ab4c67edae325/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /home/homa/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/4d2eae0e90381dc95321c244610ebc0a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /home/homa/.gradle/caches/transforms-1/files-1.1/ssp-android-1.0.5.aar/50ce052133ce8b0f79fed58063a82af3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/homa/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/fd6e173fb349c958b88d2846505fef4e/AndroidManifest.xml:2:1-17:12
+MERGED from [io.realm:android-adapters:2.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/android-adapters-2.0.0.aar/9b1d7daae1702673ecb6de991e8c4906/AndroidManifest.xml:2:1-10:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:20:1-40:12
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/05dfc746de5bb490304f4d1a4d2b5709/AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/ec4dc375b44f629d0ffaffb2ef2af95b/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:17:1-31:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/homa/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/c8506e99339708f067fef88e0b5c3699/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0a911687e8e143493ae7d925f0598ba1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mindorks:placeholderview:0.6.1] /home/homa/.gradle/caches/transforms-1/files-1.1/placeholderview-0.6.1.aar/28c14a4273abe98c8b4a4fbef47e77eb/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2a22761868eb676d7aa71778bc830804/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3308265c5b29c0d4e1cb56955b4cc1cf/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/2a8d6f69a7a0463d2a16182649e4d8d3/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/homa/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/b1003142c5cb4c067bfac877fb389240/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/homa/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/a062e268c63873939172c21ab9231aaf/AndroidManifest.xml:2:1-10:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/homa/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/1bbe677d6f53040accbf55ccfc14c22f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7fac23fda598ad0a65d31874866929e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d308e4c2fdc652dadf16804a87f3cdc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e74cba0e57b0d19be73c5af80f001721/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0e204a41df5ce6bc50184c334e84adee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/homa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d65b983a31c4fdc5e0b9ba82e9772deb/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+	package
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:17:5-35
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:1-110:12
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:19:22-62
+application
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:22:5-108:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/homa/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/fd6e173fb349c958b88d2846505fef4e/AndroidManifest.xml:11:5-15:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/homa/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/fd6e173fb349c958b88d2846505fef4e/AndroidManifest.xml:11:5-15:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:32:5-38:19
+MERGED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:25:5-29:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/homa/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/c8506e99339708f067fef88e0b5c3699/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/homa/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/c8506e99339708f067fef88e0b5c3699/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/homa/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/a062e268c63873939172c21ab9231aaf/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/homa/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/a062e268c63873939172c21ab9231aaf/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:23:9-51
+service#com.bartech.sales.sa.service.SyncService
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:30:9-56
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:30:18-53
+activity#com.bartech.sales.sa.ui.splash.SplashActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:35:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:34:13-43
+	android:theme
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:36:13-54
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:33:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.bartech.sales.sa.ui.login.LoginActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:43:9-47:68
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:46:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:45:13-43
+	android:windowSoftInputMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:47:13-65
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:44:13-71
+activity#com.bartech.sales.sa.ui.Business.BusinessActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:50:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:49:13-57
+activity#com.bartech.sales.sa.ui.PaymentWays.PaymentActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:55:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:54:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:53:13-59
+activity#com.bartech.sales.sa.ui.customersforinvoice.CustomerInvoiceActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:57:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:56:19-81
+activity#com.bartech.sales.sa.ui.salesinvoice.InvoicesShowActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:61:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:59:19-71
+activity#com.bartech.sales.sa.ui.salesinvoice.InvoiceActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:64:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:63:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:62:19-66
+activity#com.bartech.sales.sa.ui.mainscreen.MainScreenActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:65:9-67:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:67:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:66:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:65:19-67
+activity#com.bartech.sales.sa.ui.cashpayment.CashShowActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:70:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:69:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:68:19-66
+activity#com.bartech.sales.sa.ui.SalesOrder.ProductsActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:73:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:72:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:71:19-65
+activity#com.bartech.sales.sa.ui.cashpayment.CashActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:74:9-76:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:76:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:75:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:74:19-62
+activity#com.bartech.sales.sa.ui.PaymentWays.CheckActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:80:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:79:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:78:13-57
+activity#com.bartech.sales.sa.ui.SalesOrder.OrderActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:82:9-85:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:85:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:84:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:83:13-56
+activity#com.bartech.sales.sa.ui.customer.CustomerActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:86:9-89:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:89:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:88:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:87:13-57
+activity#com.bartech.sales.sa.ui.main.MainActivityActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:91:9-94:52
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:94:13-49
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:93:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:92:13-77
+activity#com.bartech.sales.sa.ui.feed.FeedActivity
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:96:9-106:20
+	android:screenOrientation
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:100:13-49
+	android:parentActivityName
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:99:13-71
+	android:launchMode
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:98:13-43
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:97:13-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:103:13-105:65
+	android:value
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:105:17-62
+	android:name
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml:104:17-63
+uses-sdk
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:3.1.4] /home/homa/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.1.4.aar/095192ce5362d423d25ab4c67edae325/AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:realm-android-library:3.1.4] /home/homa/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.1.4.aar/095192ce5362d423d25ab4c67edae325/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /home/homa/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/4d2eae0e90381dc95321c244610ebc0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /home/homa/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/4d2eae0e90381dc95321c244610ebc0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /home/homa/.gradle/caches/transforms-1/files-1.1/ssp-android-1.0.5.aar/50ce052133ce8b0f79fed58063a82af3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /home/homa/.gradle/caches/transforms-1/files-1.1/ssp-android-1.0.5.aar/50ce052133ce8b0f79fed58063a82af3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/homa/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/fd6e173fb349c958b88d2846505fef4e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/homa/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/fd6e173fb349c958b88d2846505fef4e/AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:android-adapters:2.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/android-adapters-2.0.0.aar/9b1d7daae1702673ecb6de991e8c4906/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:android-adapters:2.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/android-adapters-2.0.0.aar/9b1d7daae1702673ecb6de991e8c4906/AndroidManifest.xml:6:5-8:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/05dfc746de5bb490304f4d1a4d2b5709/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:rx2-android-networking:1.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/rx2-android-networking-1.0.1.aar/05dfc746de5bb490304f4d1a4d2b5709/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/ec4dc375b44f629d0ffaffb2ef2af95b/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/android-networking-1.0.1.aar/ec4dc375b44f629d0ffaffb2ef2af95b/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:21:5-23:62
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/homa/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/c8506e99339708f067fef88e0b5c3699/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/homa/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/c8506e99339708f067fef88e0b5c3699/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0a911687e8e143493ae7d925f0598ba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0a911687e8e143493ae7d925f0598ba1/AndroidManifest.xml:20:5-44
+MERGED from [com.mindorks:placeholderview:0.6.1] /home/homa/.gradle/caches/transforms-1/files-1.1/placeholderview-0.6.1.aar/28c14a4273abe98c8b4a4fbef47e77eb/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mindorks:placeholderview:0.6.1] /home/homa/.gradle/caches/transforms-1/files-1.1/placeholderview-0.6.1.aar/28c14a4273abe98c8b4a4fbef47e77eb/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2a22761868eb676d7aa71778bc830804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2a22761868eb676d7aa71778bc830804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3308265c5b29c0d4e1cb56955b4cc1cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3308265c5b29c0d4e1cb56955b4cc1cf/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/2a8d6f69a7a0463d2a16182649e4d8d3/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/homa/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/2a8d6f69a7a0463d2a16182649e4d8d3/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/homa/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/b1003142c5cb4c067bfac877fb389240/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /home/homa/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/b1003142c5cb4c067bfac877fb389240/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/homa/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/a062e268c63873939172c21ab9231aaf/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/homa/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/a062e268c63873939172c21ab9231aaf/AndroidManifest.xml:6:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/homa/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/1bbe677d6f53040accbf55ccfc14c22f/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/homa/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/1bbe677d6f53040accbf55ccfc14c22f/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7fac23fda598ad0a65d31874866929e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7fac23fda598ad0a65d31874866929e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d308e4c2fdc652dadf16804a87f3cdc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d308e4c2fdc652dadf16804a87f3cdc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e74cba0e57b0d19be73c5af80f001721/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e74cba0e57b0d19be73c5af80f001721/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0e204a41df5ce6bc50184c334e84adee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/homa/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0e204a41df5ce6bc50184c334e84adee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/homa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d65b983a31c4fdc5e0b9ba82e9772deb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/homa/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d65b983a31c4fdc5e0b9ba82e9772deb/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/homa/AndroidStudioProjects/Sales-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:29:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.0] /home/homa/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.0.aar/3e7e0551ed158d2ebf0bcc4fd0edad97/AndroidManifest.xml:34:13-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/7fb3889591dc7ba03ec92f891ce58883/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/c13192f74963a17c03e00c6d2ee09cf2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/633fc27b9aea0ede17ac016c603bc90a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ab573a645bc6346c5f4f7435fca28d88/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/998025269cbbd236690f7d6d65664750/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5e91efbdc6e002942b8ce5a719bd1c3c/AndroidManifest.xml:27:13-51

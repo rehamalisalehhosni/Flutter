@@ -1,0 +1,248 @@
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:52
+-keep class com.bartech.sfa.sa.MvpApp { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:59
+-keep class com.bartech.sfa.sa.service.SyncService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:92
+-keep class com.bartech.sfa.sa.ui.Registration.AttachFileActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:88
+-keep class com.bartech.sfa.sa.ui.Registration.GoogleMapsActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:80
+-keep class com.bartech.sfa.sa.ui.Registration.RegistrationActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:100
+-keep class com.bartech.sfa.sa.ui.ResetPassword.ResetActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:84
+-keep class com.bartech.sfa.sa.ui.Verification.VerificationActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:104
+-keep class com.bartech.sfa.sa.ui.feed.FeedActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:96
+-keep class com.bartech.sfa.sa.ui.landingPage.LandingActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:72
+-keep class com.bartech.sfa.sa.ui.login.LoginActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:76
+-keep class com.bartech.sfa.sa.ui.main.MainActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:61
+-keep class com.bartech.sfa.sa.ui.splash.SplashActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:182
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:141
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:162
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:131
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:177
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:189
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:205
+-keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:195
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:201
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:211
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:230
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:221
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:167
+-keep class com.google.android.gms.cast.framework.ReconnectionService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:164
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:166
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:242
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:281
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:295
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:276
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:291
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:262
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:257
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:235
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:301
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:315
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:250
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:323
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:153
+-keep class com.nbsp.materialfilepicker.ui.FilePickerActivity { <init>(); }
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_bottom_navigation_item.xml:26
+-keep class android.support.design.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_layout_snackbar_include.xml:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_main.xml:35
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/8dc0b281826434c8b5e80d383b2934df/res/layout/activity_file_picker.xml:9
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_feed.xml:22
+-keep class android.support.design.widget.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_main.xml:23
+-keep class android.support.design.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_main.xml:63
+-keep class android.support.design.widget.NavigationView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/b313613ae05b800ef689a74d329201ab/res/layout/design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_feed.xml:36
+-keep class android.support.design.widget.TabLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_registeration.xml:92
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_login.xml:68
+-keep class android.support.design.widget.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_registeration.xml:84
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_login.xml:62
+-keep class android.support.design.widget.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_feed.xml:47
+-keep class android.support.v4.view.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_main.xml:16
+-keep class android.support.v4.widget.DrawerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.support.v4.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d1e2f9bfc43171ac05705e25495a56b5/res/layout/mr_volume_control.xml:43
+-keep class android.support.v7.app.MediaRouteExpandCollapseButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d1e2f9bfc43171ac05705e25495a56b5/res/layout/mr_volume_control.xml:34
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d1e2f9bfc43171ac05705e25495a56b5/res/layout/mr_controller_volume_item.xml:43
+-keep class android.support.v7.app.MediaRouteVolumeSlider { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d1e2f9bfc43171ac05705e25495a56b5/res/layout/mr_controller_material_dialog_b.xml:87
+-keep class android.support.v7.app.OverlayListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/dc957d0280122cb56e5db798dfa25ae3/res/layout/com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/dc957d0280122cb56e5db798dfa25ae3/res/layout/com_facebook_device_auth_dialog_fragment.xml:45
+-keep class android.support.v7.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/item_repo_view.xml:23
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/item_blog_view.xml:23
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/dialog_rate_us.xml:22
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/dc957d0280122cb56e5db798dfa25ae3/res/layout/com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/dc957d0280122cb56e5db798dfa25ae3/res/layout/com_facebook_device_auth_dialog_fragment.xml:22
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/card_layout.xml:17
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_registeration.xml:9
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_login.xml:10
+-keep class android.support.v7.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_simple.xml:17
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/fragment_open_source.xml:23
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/android-file-chooser-1.3.aar/544bae5581093b923bec74eb7f1257eb/res/layout/fragment_file_chooser.xml:26
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/fragment_blog.xml:23
+-keep class android.support.v7.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout-v26/abc_screen_toolbar.xml:37
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/71f5db7a4b156c79844389711cd40d39/res/layout/cast_expanded_controller_activity.xml:28
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_main.xml:40
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/8dc0b281826434c8b5e80d383b2934df/res/layout/activity_file_picker.xml:15
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_feed.xml:26
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/6a2adba2b131acc52dbd43213bcd684b/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/card_layout.xml:46
+-keep class com.androidnetworking.widget.ANImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/drawer_header.xml:23
+-keep class com.bartech.sfa.sa.ui.custom.RoundedImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/71f5db7a4b156c79844389711cd40d39/res/layout/cast_help_text.xml:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_google_maps.xml:1
+-keep class com.google.android.gms.maps.SupportMapFragment { <init>(); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.3.4.aar/ef5ac7bc1f6ae53e3a0bf83e99fd36da/res/layout/text_bubble.xml:7
+-keep class com.google.maps.android.ui.RotationLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/AndroidStudioProjects/SFA-master/app/src/main/res/layout/activity_main.xml:55
+-keep class com.mindorks.placeholderview.SwipePlaceHolderView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /home/homa/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/8dc0b281826434c8b5e80d383b2934df/res/layout/fragment_directory.xml:8
+-keep class com.nbsp.materialfilepicker.widget.EmptyRecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+

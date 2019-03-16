@@ -1,0 +1,162 @@
+<!--
+  ~ Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://mindorks.com/license/apache-v2
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+
+<resources>
+    <string name="app_name">Sales</string>
+
+    <!--Toolbar menus-->
+    <string name="clear">Clear</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+
+    <!--Drawer-->
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+
+    <!--Drawer Menus-->
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="feed">My Feed</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--Login-->
+    <string name="login_dummy">Sales</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!--Login Validation-->
+    <string name="empty_username">من فضلك اسم المستخدم</string>
+    <string name="invalid_email">Please provide a valid email.</string>
+    <string name="empty_password">من فضلك ادخل الرقم السرى</string>
+
+    <!--business-->
+    <string name="sales_order">Sales Order</string>
+    <string name="cash">Cash Transaction</string>
+    <string name="invoice">Sales Invoice</string>
+
+    <!--sales-->
+    <string name="spinner">[اختار المنتج ....]</string>
+    <string name="quantum">ادخل الكميه المطلوبه</string>
+    <string name="details">التفاصيل او الملاحظات</string>
+    <string name="price">ادخل السعر للوحده</string>
+    <string name="total">السعر الاجمالى</string>
+    <string name="order">اضافة طلب البيع</string>
+
+    <!--sales validation-->
+    <string name="product">من فضلك اختر المنتج المطلوب</string>
+    <string name="quantum1">من فضلك ادخل الكميه المطلوبه</string>
+    <string name="price1">من فضلك ادخل سعر الوحده</string>
+    <string name="unit">الوحده </string>
+
+    <!--customers validation-->
+    <string name="txt_customer">من فضلك قم باختيار العميل</string>
+    <string name="spinner_customer">[اختار المنتج ....]</string>
+    <string name="btn_customers">تأكيد </string>
+
+    <!--payment ways-->
+    <string name="choose_way">اختر العميل و نوع العمليه المطلوبه</string>
+    <string name="cash_payment">دفع نقدى</string>
+    <string name="cash_payment1">دفع بشيك</string>
+
+    <!--invoice-->
+    <string name="invoice1">اختر العميل المطلوب اصدار فاتوره له</string>
+    <string name="btn_invoice">ادخل بيانات الفاتوره</string>
+    <string name="btn_invoice_data">اصدار الفاتوره للعميل</string>'
+    <string name="btn_invoice_click">مراجعة الفواتير الصادره</string>
+    <string name="invoice_cash">ادخل قيمة الفاتوره </string>
+    <string name="alert_invoice_title">تاكيد الفاتوره </string>
+    <string name="alert_invoice_sure">هل انت متاكد من قيمة الفاتوره</string>
+    <string name="butt0n_invoice">ارسال البيانات الى السيرفر</string>
+
+
+
+    <!--cash-->
+    <string name="payment_cash">ادخل قيمة النقديه </string>
+    <string name="btn_cash">تاكيد قيمة النقديه</string>
+    <string name="btn_show">عرض الفواتير</string>
+    <string name="alert_title">تاكيد امر النقديه </string>
+    <string name="alert_sure">هل انت متاكد من قيمة النقديه</string>
+    <string name="total_cached">الاجمالى :</string>
+    <string name="customer_cached">اسم العميل :</string>
+    <string name="button_cached">ارسال البيانات الى السيرفر</string>
+
+    <!--product-->
+    <string name="product_cached">المنتج :</string>
+    <string name="unit_cached">الوحده :</string>
+    <string name="quantum_cached">الكميه :</string>
+    <string name="price_cached">سعر الوحده :</string>
+    <string name="total_product_cached">الاجمالى :</string>
+    <string name="btn_product_cached">ارسال البيانات الى السيرفر </string>
+
+    <!--cart-->
+    <string name="action_Cart">Cart</string>
+    <string name="action_Notification">Notification</string>
+
+    <!--check-->
+    <string name="payment_check">ادخل قيمة الشيكات </string>
+    <string name="btn_check">تاكيد قيمة الشيكات</string>
+    <string name="btn_check_photo">تصوير الشيكات</string>
+    <string name="alert_title_check">تاكيد الشيكات </string>
+    <string name="alert_sure_check">هل انت متاكد من بيانات الشيكات</string>
+    
+    <!--main-->
+    <string name="btn_cached_data">Cach Data Offline</string>
+
+
+    <!--about fragment-->
+    <string name="project_info">This sample app implements MVP architecture using Dagger2, GreenDao, RxJava, FastAndroidNetworking and PlaceholderView</string>
+    <string name="link_mvp_blog">1. https://blog.mindorks.com</string>
+    <string name="link_mvp_repo">2. https://github.com/MindorksOpenSource/android-mvp-architecture</string>
+    <string name="link_mindorks_blog">3. https://blog.mindorks.com</string>
+    <string name="link_mindorks_repo">4. https://github.com/MindorksOpenSource</string>
+    <string name="version">"version"</string>
+
+    <!--rating dialog-->
+    <string name="rate_us">Rate Us</string>
+    <string name="rating_message">Please let us know, how can we improve ourselves?</string>
+    <string name="rating_play_store_redirect_message_line_1">Awesome! Thank you for the 5 stars.</string>
+    <string name="rating_play_store_redirect_message_line_2">Please help others, in knowing some good things about this app.</string>
+    <string name="rating_play_store_text">Rate us on Play Store</string>
+    <string name="rating_not_provided_error">Please provide us stars.</string>
+    <string name="rating_thanks">Thank you!</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+    <!--button-->
+    <string name="later">Later</string>
+    <string name="submit">Submit</string>
+
+    <!--feed-->
+    <string name="title">My Feed</string>
+    <string name="open_source">Open Source</string>
+    <string name="blog">Blog</string>
+
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+
+</resources>
