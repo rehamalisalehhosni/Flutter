@@ -1,0 +1,6 @@
+
+    /ios/*
+    /android/*
+    /build/*
+    /test/*
+    /.idea/*

@@ -6,6 +6,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
     var mylist= List.generate(500,(i)=>"Fulttwr $i");
     var _controller= ScrollController();
+    var _controller2= ScrollController();
    // var _controller= ScrollController(initialScrollOffset: 50.0);
   @override
   Widget build(BuildContext context) {
@@ -13,6 +14,7 @@ class MyApp extends StatelessWidget {
        appBar: AppBar(),
         floatingActionButton: FloatingActionButton(onPressed: (){
           _controller.animateTo(0.0, duration:Duration(seconds:1), curve: Curves.easeInOut );
+          _controller2.animateTo(_controller.position.maxScrollExtent, duration:Duration(seconds:1), curve: Curves.easeInOut );
           //_controller.jumpTo(0.0);
         }),
         body:  Row(
@@ -20,6 +22,7 @@ class MyApp extends StatelessWidget {
               Expanded(
                 flex:1,
                 child: ListView(
+                  controller: _controller,
                   children: mylist.map((item){
                     return ListTile(
                       leading: FlutterLogo(),
@@ -30,10 +33,12 @@ class MyApp extends StatelessWidget {
               ),Expanded(
          //             color:Colors.transparent,
                 child: ListView(
-                  controller: _controller,
+                  shrinkWrap: true,
+                  reverse: true,
+                  controller: _controller2,
                   children: mylist.map((item){
                     return ListTile(
-                      leading: FlutterLogo(),
+                      leading: FlutterLogo(colors: Colors.red,),
                       title: Text(item),
                     );
                   }).toList(),
